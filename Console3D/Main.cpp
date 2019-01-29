@@ -9,6 +9,8 @@
 #include "Color.hpp"
 #include "Engine.hpp"
 
+int a;
+
 using namespace Render;
 
 void SetSmallestFont(HANDLE* hOut, uint8_t fontw, uint8_t fonth, const wchar_t* fontstr);
